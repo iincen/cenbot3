@@ -1,7 +1,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/iincen/cenbot3
 ```
 
 ## Install the dependencies:
